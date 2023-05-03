@@ -12,6 +12,13 @@ app.get('/chefs', (req, res) =>{
     res.send(chefs);
 })
 
+app.get('/chefs/:id', (req, res) =>{
+    const id = req.params.id;
+    console.log(id);
+    const selectedChefs = chefs.find(c=> c.id === id);
+    res.send(selectedChefs)
+})
+
 app.listen(port, ()=>{
     console.log(`TempuraTales API is running on port: ${port}`)
 })
