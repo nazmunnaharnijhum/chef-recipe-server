@@ -7,32 +7,31 @@
         "numbers_of_recipes": 15,
         "chef_bio": " Sakura Nakamura is a renowned sushi chef based in Tokyo, Japan. She learned the art of sushi-making from her father, who ran a small sushi restaurant in Tokyo for over 30 years. After years of training and perfecting her craft, Sakura opened her own restaurant, where she combines traditional techniques with modern flavors to create innovative and delicious sushi dishes. Her restaurant has received numerous accolades, including a Michelin star.",
         "likes": 3000,
-        "recipes": [
+        "recipes": 
             {
-                "id": "r1",
-                "recipe_name": "Miso Soup",
-                "recipe_picture":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
-                "ingredients":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
-                "cooking_method":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
-                "rating": 4.2
-            },
-            {
-                "id": "r2",
-                "recipe_name":"Soba Noodle Salad",
-                "recipe_picture":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
-                "ingredients":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
-                "cooking_method":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
-                "rating": 4.3
-            },
-            {
-                "id": "r3",
-                "recipe_name":"Teriyaki Chicken",
-                "recipe_picture":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
-                "ingredients":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
-                "cooking_method":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
-                "rating": 4.8
+                "_id1": "r1",
+                "recipe_name1": "Miso Soup",
+                "recipe_picture1":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
+                "ingredients1":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
+                "cooking_method1":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
+                "rating1": 4.2,
+            
+            
+                "_id2": "r2",
+                "recipe_name2":"Soba Noodle Salad",
+                "recipe_picture2":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
+                "ingredients2":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
+                "cooking_method2":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
+                "rating2": 4.3,
+            
+                "_id3": "r3",
+                "recipe_name3":"Teriyaki Chicken",
+                "recipe_picture3":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
+                "ingredients3":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
+                "cooking_method3":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
+                "rating3": 4.8
             }
-        ]
+        
     },
     {
         "id": "c2",
@@ -42,32 +41,31 @@
         "numbers_of_recipes": 45,
         "chef_bio": " Haruki Tanaka is a celebrated pastry chef based in Kyoto, Japan. He specializes in traditional Japanese desserts, such as mochi and wagashi, and is known for his unique flavor combinations and stunning presentation. Haruki draws inspiration from the natural beauty of Kyoto, incorporating local ingredients like matcha, red bean paste, and yuzu into his desserts. He has been featured in several food magazines and is a frequent guest on cooking shows.",
         "likes": 5000,
-        "recipes": [
-            {
-                "id": "r1",
-                "recipe_name": "Miso Soup",
-                "recipe_picture":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
-                "ingredients":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
-                "cooking_method":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
-                "rating": 4.2
-            },
-            {
-                "id": "r2",
-                "recipe_name":"Soba Noodle Salad",
-                "recipe_picture":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
-                "ingredients":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
-                "cooking_method":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
-                "rating": 4.3
-            },
-            {
-                "id": "r3",
-                "recipe_name":"Teriyaki Chicken",
-                "recipe_picture":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
-                "ingredients":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
-                "cooking_method":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
-                "rating": 4.8
-            }
-        ]
+        "recipes": 
+        {
+            "_id1": "r1",
+            "recipe_name1": "Miso Soup",
+            "recipe_picture1":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
+            "ingredients1":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
+            "cooking_method1":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
+            "rating1": 4.2,
+        
+        
+            "_id2": "r2",
+            "recipe_name2":"Soba Noodle Salad",
+            "recipe_picture2":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
+            "ingredients2":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
+            "cooking_method2":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
+            "rating2": 4.3,
+        
+            "_id3": "r3",
+            "recipe_name3":"Teriyaki Chicken",
+            "recipe_picture3":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
+            "ingredients3":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
+            "cooking_method3":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
+            "rating3": 4.8
+        }
+        
     },
     {
         "id": "c3",
@@ -77,32 +75,31 @@
         "numbers_of_recipes": 35,
         "chef_bio": "Akira Yamamoto is a rising star in the world of Japanese cuisine. He trained under some of the top chefs in Tokyo and has worked at several prestigious restaurants around the world. Akira is known for his innovative and playful approach to Japanese cuisine, incorporating unexpected ingredients and techniques to create dishes that are both beautiful and delicious. He recently opened his own restaurant in Osaka, which has quickly become a favorite among foodies and critics alike.",
         "likes": 5500,
-        "recipes": [
-            {
-                "id": "r1",
-                "recipe_name": "Miso Soup",
-                "recipe_picture":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
-                "ingredients":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
-                "cooking_method":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
-                "rating": 4.2
-            },
-            {
-                "id": "r2",
-                "recipe_name":"Soba Noodle Salad",
-                "recipe_picture":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
-                "ingredients":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
-                "cooking_method":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
-                "rating": 4.3
-            },
-            {
-                "id": "r3",
-                "recipe_name":"Teriyaki Chicken",
-                "recipe_picture":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
-                "ingredients":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
-                "cooking_method":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
-                "rating": 4.8
-            }
-        ]
+        "recipes": 
+        {
+            "_id1": "r1",
+            "recipe_name1": "Miso Soup",
+            "recipe_picture1":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
+            "ingredients1":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
+            "cooking_method1":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
+            "rating1": 4.2,
+        
+        
+            "_id2": "r2",
+            "recipe_name2":"Soba Noodle Salad",
+            "recipe_picture2":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
+            "ingredients2":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
+            "cooking_method2":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
+            "rating2": 4.3,
+        
+            "_id3": "r3",
+            "recipe_name3":"Teriyaki Chicken",
+            "recipe_picture3":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
+            "ingredients3":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
+            "cooking_method3":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
+            "rating3": 4.8
+        }
+        
     },
     {
         "id": "c4",
@@ -112,32 +109,31 @@
         "numbers_of_recipes": 15,
         "chef_bio": "Yuki Suzuki is a master of kaiseki, a traditional multi-course Japanese meal. She runs a small restaurant in Kyoto, where she serves seasonal dishes made with local ingredients. Yuki's dishes are a feast for the eyes as well as the palate, with each course beautifully presented and thoughtfully prepared. Her restaurant has a loyal following of food lovers who appreciate the attention to detail and dedication to tradition that she brings to her cooking.",
         "likes": 1500,
-        "recipes": [
-            {
-                "id": "r1",
-                "recipe_name": "Miso Soup",
-                "recipe_picture":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
-                "ingredients":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
-                "cooking_method":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
-                "rating": 4.2
-            },
-            {
-                "id": "r2",
-                "recipe_name":"Soba Noodle Salad",
-                "recipe_picture":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
-                "ingredients":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
-                "cooking_method":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
-                "rating": 4.3
-            },
-            {
-                "id": "r3",
-                "recipe_name":"Teriyaki Chicken",
-                "recipe_picture":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
-                "ingredients":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
-                "cooking_method":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
-                "rating": 4.8
-            }
-        ]
+        "recipes": 
+        {
+            "_id1": "r1",
+            "recipe_name1": "Miso Soup",
+            "recipe_picture1":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
+            "ingredients1":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
+            "cooking_method1":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
+            "rating1": 4.2,
+        
+        
+            "_id2": "r2",
+            "recipe_name2":"Soba Noodle Salad",
+            "recipe_picture2":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
+            "ingredients2":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
+            "cooking_method2":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
+            "rating2": 4.3,
+        
+            "_id3": "r3",
+            "recipe_name3":"Teriyaki Chicken",
+            "recipe_picture3":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
+            "ingredients3":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
+            "cooking_method3":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
+            "rating3": 4.8
+        }
+        
     },
     {
         "id": "c5",
@@ -147,32 +143,31 @@
         "numbers_of_recipes": 35,
         "chef_bio": "Hiroto Nakamura is a chef and restaurateur based in Tokyo, Japan. He is the owner of a popular izakaya, a casual Japanese pub that serves small plates and drinks. Hiroto's dishes are simple but flavorful, with a focus on fresh, high-quality ingredients. He takes pride in sourcing his ingredients from local farmers and fishermen, and has built strong relationships with suppliers over the years. His izakaya is a favorite among locals and tourists alike.",
         "likes": 7000,
-        "recipes": [
-            {
-                "id": "r1",
-                "recipe_name": "Miso Soup",
-                "recipe_picture":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
-                "ingredients":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
-                "cooking_method":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
-                "rating": 4.2
-            },
-            {
-                "id": "r2",
-                "recipe_name":"Soba Noodle Salad",
-                "recipe_picture":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
-                "ingredients":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
-                "cooking_method":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
-                "rating": 4.3
-            },
-            {
-                "id": "r3",
-                "recipe_name":"Teriyaki Chicken",
-                "recipe_picture":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
-                "ingredients":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
-                "cooking_method":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
-                "rating": 4.8
-            }
-        ]
+        "recipes": 
+        {
+            "_id1": "r1",
+            "recipe_name1": "Miso Soup",
+            "recipe_picture1":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
+            "ingredients1":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
+            "cooking_method1":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
+            "rating1": 4.2,
+        
+        
+            "_id2": "r2",
+            "recipe_name2":"Soba Noodle Salad",
+            "recipe_picture2":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
+            "ingredients2":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
+            "cooking_method2":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
+            "rating2": 4.3,
+        
+            "_id3": "r3",
+            "recipe_name3":"Teriyaki Chicken",
+            "recipe_picture3":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
+            "ingredients3":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
+            "cooking_method3":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
+            "rating3": 4.8
+        }
+        
     },
     {
         "id": "c6",
@@ -182,31 +177,30 @@
         "numbers_of_recipes": 25,
         "chef_bio": "Haruka Takahashi is a chef and cookbook author based in Tokyo, Japan. She specializes in home-style Japanese cooking, and is known for her simple and delicious recipes that are easy to replicate at home. Rina's cookbook has been a bestseller in Japan and has been translated into several languages. She also runs a popular cooking blog and YouTube channel, where she shares tips and tricks for cooking Japanese cuisine. Rina's approachable style and passion for cooking have inspired many home cooks to try their hand at Japanese cooking.",
         "likes": 2500,
-        "recipes": [
-            {
-                "id": "r1",
-                "recipe_name": "Miso Soup",
-                "recipe_picture":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
-                "ingredients":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
-                "cooking_method":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
-                "rating": 4.2
-            },
-            {
-                "id": "r2",
-                "recipe_name":"Soba Noodle Salad",
-                "recipe_picture":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
-                "ingredients":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
-                "cooking_method":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
-                "rating": 4.3
-            },
-            {
-                "id": "r3",
-                "recipe_name":"Teriyaki Chicken",
-                "recipe_picture":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
-                "ingredients":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
-                "cooking_method":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
-                "rating": 4.8
-            }
-        ]
+        "recipes": 
+        {
+            "_id1": "r1",
+            "recipe_name1": "Miso Soup",
+            "recipe_picture1":"https://i.ibb.co/ky4YmbL/miso-soup-with-mushrooms-table.jpg",
+            "ingredients1":"4 cups dashi stock,3 tablespoons miso paste,1 block silken tofu, cubed,1/4 cup chopped green onions",
+            "cooking_method1":"1.Heat dashi stock in a pot over medium heat. 2.In a small bowl, whisk together the miso paste and a small amount of the dashi stock until smooth. 3.Add the miso mixture and tofu to the pot and cook until heated through. 4.Serve hot, garnished with chopped green onions.",
+            "rating1": 4.2,
+        
+        
+            "_id2": "r2",
+            "recipe_name2":"Soba Noodle Salad",
+            "recipe_picture2":"https://i.ibb.co/LQGYqxN/noodles-prepared-with-meat-bell-peppers-sauce.jpg",
+            "ingredients2":"8 ounces soba noodles,1/2 cup soy sauce,1/4 cup rice vinegar,2 tablespoons sesame oil,1 tablespoon honey,1 teaspoon grated ginger,1/4 teaspoon red pepper flakes",
+            "cooking_method2":"1.Cook soba noodles according to package instructions, then rinse with cold water and drain. 2.In a small bowl, whisk together the soy sauce, rice vinegar, sesame oil, honey, ginger, and red pepper flakes. 3.In a large bowl, toss together the noodles, cucumber, carrots, green onions, cilantro, and dressing. 4.Serve chilled.",
+            "rating2": 4.3,
+        
+            "_id3": "r3",
+            "recipe_name3":"Teriyaki Chicken",
+            "recipe_picture3":"https://i.ibb.co/4YPqW6b/chicken-prepared-sauce-served-with-lemon-slices.jpg",
+            "ingredients3":"4 boneless, skinless chicken breasts,1/2 cup soy sauce,,1/2 cup mirin,1/4 cup sugar,minced,1 teaspoon grated ginger,1 tablespoon vegetable oil,Sesame seeds,for garnish",
+            "cooking_method3":"1.In a small bowl, whisk together the soy sauce, mirin, sugar, garlic, and ginger. 2.Heat the vegetable oil in a large skillet over medium-high heat. 3.Add the chicken and cook until browned on both sides. 4.Pour the teriyaki sauce over the chicken and simmer until the sauce thickens and the chicken is cooked through. 5.Garnish with sesame seeds and serve hot.",
+            "rating3": 4.8
+        }
+        
     }
 ]
